@@ -1,5 +1,7 @@
 # Recipe Search
-A lightweight neural search engine for recipe data
+A lightweight neural search engine for recipe data, based on Weaviate and MiniLM.
+
+Uses preprocessed recipe data from [RecipeNLG](https://recipenlg.cs.put.poznan.pl/), through [recipe-nlg-lite](https://huggingface.co/datasets/m3hrdadfi/recipe_nlg_lite) dataset.
 
 ## Usage
 
